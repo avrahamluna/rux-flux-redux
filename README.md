@@ -1,4 +1,4 @@
-# Flux-Redux Exemplar
+# Flux-Redux Exemple
 
 ## Getting started
 To run application, run
